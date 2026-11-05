@@ -1,8 +1,8 @@
 # ML system design
 
-## The 30-second answer
+## Summary
 
-<!-- what I'd say out loud if asked cold -->
+<!-- the key idea in a few sentences -->
 
 ## Intuition
 
@@ -12,9 +12,9 @@
 
 <!-- derivations, $...$ and $$...$$ -->
 
-## Interview questions
+## Questions to test yourself
 
-<!-- question, then likely follow-ups -->
+<!-- question, then follow-ups -->
 
 ## Gotchas
 
