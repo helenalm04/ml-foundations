@@ -21,7 +21,7 @@ ML system design is a Markdown file with no code, so it skips sections 2 to 4.
 | # | Topic | nbviewer | Area | Status |
 |---|---|---|---|---|
 | 01 | [Bias-variance and regularisation](notebooks/01-bias-variance-regularisation.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/01-bias-variance-regularisation.ipynb) | Classical ML and stats | ⬜ |
-| 02 | [Linear and logistic regression](notebooks/02-linear-logistic-regression.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/02-linear-logistic-regression.ipynb) | Classical ML and stats | ⬜ |
+| 02 | [Linear and logistic regression](notebooks/02-linear-logistic-regression.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/02-linear-logistic-regression.ipynb) | Classical ML and stats | ✅ |
 | 03 | [Model evaluation](notebooks/03-model-evaluation.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/03-model-evaluation.ipynb) | Classical ML and stats | ⬜ |
 | 04 | [Trees and boosting](notebooks/04-trees-and-boosting.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/04-trees-and-boosting.ipynb) | Classical ML and stats | ⬜ |
 | 05 | [PCA and SVD](notebooks/05-pca-svd.ipynb) | [view](https://nbviewer.org/github/helenalm04/ml-foundations/blob/main/notebooks/05-pca-svd.ipynb) | Classical ML and stats | ⬜ |
